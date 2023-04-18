@@ -1,13 +1,12 @@
-# Final-Project
+# Breast Cancer Classification using SVM's.
 
-## Breast Cancer Classification using SVM's.
-By: Aarav Desai, Sanjay Subramanian, Tanmay, Runze Shao, Shahab Khorasanizadeh, and Justin Estes
+### By: Aarav Desai, Sanjay Subramanian, Tanmay, Runze Shao, Shahab Khorasanizadeh, and Justin Estes
 
 We got our data from [BCSC](https://www.bcsc-research.org/data/rfdataset/dataset). We used the 2nd risk estimation dataset in our project, which contained over 100,000 rows of data.
 
 
-
-# Support Vector Machines #
+<!-- #region -->
+## Support Vector Machines ##
 
 “The support-vector network is a new learning machine for two-group classification problems.”
 
@@ -21,7 +20,9 @@ A hyperplane is a decision boundary that helps with classifying data points.The 
 
 ### But how can we define such a hyperplane? ###
 
-# Hyperplanes #
+
+
+## Hyperplanes ##
 When defining a hyperplane in an SVM, the number one thing to consider is maximizing the margin distance. This enables future data points to be classified by the agent with more confidence. In short, this means that SVMs aim to make the margin distance between the hyperplane and the data points as large as possible to ensure that data points are correctly classified. This is part of a concept called Large Margin Intuition.
 
 Large margin intuition refers to the idea that having a larger margin between the decision boundary (or hyperplane) and the closest data points from each class is more desirable. A larger margin leads to a more robust and generalizable model.
@@ -42,8 +43,7 @@ Non-unique — Hyperplane is not unique, there can be multiple hyperplanes which
 Computationally efficient — SVM algorithm is computationally efficient, it can handle large amount of data set and able to classify them.
 
 The data points closest to the boundary formed by the hyperplane are called support vectors. They have the most significant impact on the position of the boundary. These data points are crucial in programming an SVM.
->>>>>>> aa481d199205ccdb51425536ac52fa9dfa007cc8
-
+<!-- #endregion -->
 
 ## Description
 
@@ -55,11 +55,41 @@ The motivation for this project was to use power of machine learning and its too
 
 - For the exploratory data analysis part we used a combination of Matplotlib and seaborn to create various plots like histograms, heatmap, correlation matrix, violin plots and strip plots. 
 
-- In the machine learning part we used the sklearn library to create a linear regression model to predict the R-squared value amongst the cancer feature in the dataset with the others.
+- In the machine learning part we used the sklearn library to create a linear regression model to predict the R-squared value amongst the cancer feature in the dataset with the others. Apart from creating a linear regression model we also created a logistic regression model and performed multiple regression with the data as well.
 
 - In the sklearn library we also used the svm function to create a support vector machine that splits our data into testing and training dataset and gives us a confusion matrix with the classified data with 0 representing patients without cancer and 1 representing patients with cancer.
 
 
-```python
 
-```
+## Prerequisites
+
+
+This is an example of the commands on the various libraries you need to install to start this project
+
+<!-- #raw -->
+pip install -U scikit-learn
+<!-- #endraw -->
+
+To access the code for this project clone this repository using the git command
+
+<!-- #raw -->
+git clone https://github.com/Skhorasan/Final-Project.git
+<!-- #endraw -->
+
+## Contents in the Repository
+
+
+### Final Notebook.ipynb 
+- Contains the final code for our project and the git commits done.
+
+### dataset_documentation.md
+- Contains the information of the dataset used in the project and the columns and its data type.
+
+
+
+## Contribution
+
+
+Any contributions to this project would be greatly appreciated.
+
+To do so, you can create your own git branch and make your changes and merge to the main branch
