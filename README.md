@@ -64,16 +64,24 @@ The motivation for this project was to use power of machine learning and its too
 ## Prerequisites
 
 
-This is an example of the commands on the various libraries you need to install to start this project
+Commands for installing the various libraries you need to start this project.
 
 <!-- #raw -->
+```
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install statsmodels
 pip install -U scikit-learn
+```
 <!-- #endraw -->
 
 To access the code for this project clone this repository using the git command
 
 <!-- #raw -->
+```
 git clone https://github.com/Skhorasan/Final-Project.git
+```
 <!-- #endraw -->
 
 ## Contents in the Repository
