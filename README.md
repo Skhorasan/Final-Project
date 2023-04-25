@@ -97,6 +97,7 @@ git clone https://github.com/Skhorasan/Final-Project.git
 
 ## Contribution
 
+Justin Estes: Worked on slides
 
 Any contributions to this project would be greatly appreciated.
 
