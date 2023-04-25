@@ -42,7 +42,6 @@ Non-unique — Hyperplane is not unique, there can be multiple hyperplanes which
 Computationally efficient — SVM algorithm is computationally efficient, it can handle large amount of data set and able to classify them.
 
 The data points closest to the boundary formed by the hyperplane are called support vectors. They have the most significant impact on the position of the boundary. These data points are crucial in programming an SVM.
->>>>>>> aa481d199205ccdb51425536ac52fa9dfa007cc8
 
 
 ## Description
