@@ -101,6 +101,8 @@ Justin Estes: Worked on slides
 
 Shahab Khorasanizadeh: Histograms, linear model, commenting the code.
 
+Sanjay Subramanian: Worked on Readme file
+
 Any contributions to this project would be greatly appreciated.
 
 To do so, you can create your own git branch and make your changes and merge to the main branch
