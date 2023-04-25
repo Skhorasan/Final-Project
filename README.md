@@ -99,6 +99,12 @@ git clone https://github.com/Skhorasan/Final-Project.git
 
 Justin Estes: Worked on slides
 
+Shahab Khorasanizadeh: Histograms, linear model, commenting the code.
+
 Any contributions to this project would be greatly appreciated.
 
 To do so, you can create your own git branch and make your changes and merge to the main branch
+
+```python
+
+```
