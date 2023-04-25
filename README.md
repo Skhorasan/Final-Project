@@ -109,6 +109,8 @@ Sanjay Subramanian: Worked on README.md
 
 Runze Shao: Heatmap & Project Slides
 
+Tanmay Grandhisiri: Support Vector Machine and Violin plots.
+
 ```python
 
 ```
