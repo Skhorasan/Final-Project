@@ -103,15 +103,11 @@ Justin Estes: Project Slides
 
 Shahab Khorasanizadeh: Histograms, linear model, commenting the code.
 
-<<<<<<< HEAD
 Aarav Desai: Logisitic Regression & README.md
-=======
-Sanjay Subramanian: Worked on Readme file
 
-Any contributions to this project would be greatly appreciated.
+Sanjay Subramanian: Worked on README.md
 
-To do so, you can create your own git branch and make your changes and merge to the main branch
->>>>>>> b220dbbffba7e231cfa2431d01057d9a9258f236
+Runze Shao: Heatmap & Project Slides
 
 ```python
 
