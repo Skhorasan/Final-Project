@@ -111,6 +111,4 @@ Runze Shao: Heatmap & Project Slides
 
 Tanmay Grandhisiri: Support Vector Machine and Violin plots.
 
-```python
 
-```
